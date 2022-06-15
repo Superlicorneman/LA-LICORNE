@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 143: stop requires a channel
+    stop
+        ^
+
+Ren'Py Version: Ren'Py 7.4.11.2266
+Tue Jun 14 22:30:50 2022
